@@ -26,5 +26,3 @@ This project demonstrates a basic Security Operations Center (SOC) setup using W
 
 ## 📊 Outcome
 Successfully demonstrated how SIEM detects suspicious activities and supports SOC monitoring.
-
-## 📄 Project Report
